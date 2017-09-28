@@ -1,7 +1,5 @@
 # WinShell
-# Commands Covered:
-# HELP # /? # DEL
-# CLS # TYPE # DIR
+# Commands Covered:[HELP][/?][DEL][CLS][TYPE][DIR]
 Ok Sooo lets talk about the command line in windows
 Why is the command line black? because satan created it, and it is infuriating. With this said, i will continue.
 
